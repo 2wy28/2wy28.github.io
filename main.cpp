@@ -10,6 +10,10 @@ int main(int argc, char *argv[])
  //
  // This is the new_feature0 branch
 
+    for (auto idx : array)
+    {
+
+    }
 
     return(0);
 }
